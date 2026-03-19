@@ -16,9 +16,9 @@ This project demonstrates practical implementation of speech recognition, speech
 *  Interactive and animated user interface
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-* Frontend:HTML5, CSS3
+* Frontend: HTML5, CSS3
 * Logic Layer: JavaScript (ES6)
 * APIs Used:
              * Web Speech API (SpeechRecognition)
