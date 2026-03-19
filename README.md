@@ -1,3 +1,4 @@
+<img width="1920" height="1008" alt="Screenshot 2026-03-19 191849" src="https://github.com/user-attachments/assets/cd5dbd3f-e142-43a2-b8f5-6fc5a2de3b5e" />
 # Jarvis – Web-Based Voice Assistant
 
 ## Project Overview
@@ -121,3 +122,4 @@ This is a frontend-based prototype demonstrating voice interaction capabilities 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 
+<img width="1564" height="782" alt="Screenshot 2026-03-19 191912" src="https://github.com/user-attachments/assets/9b8125bc-ed49-4933-91cc-aa179c0f2af6" />
