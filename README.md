@@ -58,11 +58,12 @@ User Voice → Speech Recognition → Command Processing → Action Execution �
 
 
 ##  Project Structure
+```
 Jarvis-Voice-Assistant/
 |── index.html        # UI structure
 |── style.css         # Styling & animations
 |── app.js            # Core logic (voice + commands)
-
+```
 
 ## Getting Started
 
